@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi There
 * I am a beginner in coding.
 * I am attending Daegwang High School in Korea.
 <!-- 깃허브 상태창 -->

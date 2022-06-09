@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&,color=auto&text=Welcome!&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&,color=auto&text=Welcome!&fontColor=ffffff&fontAlignY=30)
 
 <!-- 깃허브 상태창 -->
 ![TheYunseokSong's github stats](https://github-readme-stats.vercel.app/api?username=TheYunseokSong&show_icons=true)

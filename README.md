@@ -5,7 +5,7 @@
 
 <!-- 깃허브 상태창 -->
 # :computer: GitHub Status
-![TheYunseokSong's github stats](https://github-readme-stats.vercel.app/api?username=TheYunseokSong&show_icons=true)
+[![TheYunseokSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheYunseokSong&theme=dark&count_private=true&show_icons=true)](https://github.com/superjoy0502/) [![TheYunseokSong's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheYunseokSong&theme=dark&layout=compact)](https://github.com/TheYunseokSong/)
 
 # :email: SNS
 ![Instagram](https://img.shields.io/badge/-Instagram-E32E7F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunseok330/)

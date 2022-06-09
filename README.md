@@ -1,5 +1,5 @@
 <!-- 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&,color=auto&height=200&text=Welcome!&fontColor=ffffff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&,color=auto&height=150&text=Welcome!&fontColor=ffffff&fontAlignY=35)
 # Hi there 👋
 * I am a beginner in coding.
 
@@ -12,7 +12,7 @@
 
 <!-- 방문자수 -->
 # :people_hugging: Number of Visitors
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheYunseokSong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheYunseokSong%2Fhit-counter&count_bg=%233DB1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=+views&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **TheYunseokSong/TheYunseokSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

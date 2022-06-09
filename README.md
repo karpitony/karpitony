@@ -1,14 +1,14 @@
 <!-- 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&,color=auto&text=Welcome!&fontColor=ffffff&fontAlignY=30)
 # Hi there 👋
-* ㅇㅇ
-* 
+* I am a beginner in coding.
+
 <!-- 깃허브 상태창 -->
 # :computer: GitHub Status
 ![TheYunseokSong's github stats](https://github-readme-stats.vercel.app/api?username=TheYunseokSong&show_icons=true)
 
 # :email: SNS
-[![Instagram](https://img.shields.io/badge/-Instagram-E32E7F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunseok330/)]
+![Instagram](https://img.shields.io/badge/-Instagram-E32E7F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunseok330/)
 
 <!-- 방문자수 -->
 # :people_hugging: Number of Visitors

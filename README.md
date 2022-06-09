@@ -1,16 +1,18 @@
-### Hi there 👋
 <!-- 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&,color=auto&text=Welcome!&fontColor=ffffff&fontAlignY=30)
-
+# Hi there 👋
+* ㅇㅇ
+* 
 <!-- 깃허브 상태창 -->
-# :computer: My Developing
+# :computer: GitHub Status
 ![TheYunseokSong's github stats](https://github-readme-stats.vercel.app/api?username=TheYunseokSong&show_icons=true)
 
+# :email: SNS
+[![Instagram](https://img.shields.io/badge/-Instagram-E32E7F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunseok330/)]
+
 <!-- 방문자수 -->
+# :people_hugging: Number of Visitors
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheYunseokSong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-# :📧: Social
-
 <!--
 **TheYunseokSong/TheYunseokSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

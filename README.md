@@ -1,5 +1,5 @@
 <!-- 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&,color=auto&height=400&text=Welcome!&fontColor=ffffff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&,color=auto&height=100&text=Welcome!&fontColor=ffffff&fontAlignY=35)
 # Hi there 👋
 * I am a beginner in coding.
 

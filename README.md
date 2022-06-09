@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving)
-![header](https://capsule-render.vercel.app/api?color=auto)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=waving,color=auto,text=Hello%World!)
+
 
 <!--
 **TheYunseokSong/TheYunseokSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

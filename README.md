@@ -1,5 +1,5 @@
 <!-- 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&,color=auto&text=Welcome!&fontColor=ffffff&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&,color=auto&text=Welcome!&fontColor=ffffff&fontAlignY=35)
 # Hi there 👋
 * I am a beginner in coding.
 
@@ -8,7 +8,7 @@
 [![TheYunseokSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheYunseokSong&theme=dark&count_private=true&show_icons=true)](https://github.com/superjoy0502/) [![TheYunseokSong's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheYunseokSong&theme=dark&layout=compact)](https://github.com/TheYunseokSong/)
 
 # :email: SNS
-![Instagram](https://img.shields.io/badge/-Instagram-E32E7F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunseok330/)
+![Instagram](https://img.shields.io/badge/-Instagram-E32E7F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunseok330/) ![Facebook](https://img.shields.io/badge/-Facebook-2D88FF?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yunseok330/)
 
 <!-- 방문자수 -->
 # :people_hugging: Number of Visitors

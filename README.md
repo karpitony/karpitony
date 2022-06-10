@@ -1,6 +1,6 @@
 # 👋 Hi There
-* I am a beginner in coding.
-* I am attending Daegwang High School in Korea.
+* I'm a beginner in coding.
+* I'm attending Daegwang High School in Korea.
 <!-- 깃허브 상태창 -->
 # :computer: GitHub Status
 [![TheYunseokSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheYunseokSong&theme=dark&count_private=true&show_icons=true)](https://github.com/superjoy0502/)

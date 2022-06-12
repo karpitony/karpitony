@@ -3,7 +3,7 @@
 * I'm attending Daegwang High School in Korea.-->
 <!-- 깃허브 상태창 -->
 # Github Stats
-[![TheYunseokSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheYunseokSong&theme=dark&count_private=true&show_icons=true)](https://github.com/superjoy0502/)
+[![TheYunseokSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheYunseokSong&theme=dark&count_private=true&show_icons=true)](https://github.com/TheYunseokSong/)
 [![TheYunseokSong's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheYunseokSong&theme=dark&layout=compact)](https://github.com/TheYunseokSong/)
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pocky1017)](https://solved.ac/pocky1017/)-->
 # Skills

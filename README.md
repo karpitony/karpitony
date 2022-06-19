@@ -1,6 +1,4 @@
-<!--# 👋 Hi There
-* I'm a beginner in coding.
-* I'm attending Daegwang High School in Korea.-->
+print("Hello World!")
 <!-- 깃허브 상태창 -->
 # Github Stats
 [![TheYunseokSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheYunseokSong&theme=dark&count_private=true&show_icons=true)](https://github.com/TheYunseokSong/)

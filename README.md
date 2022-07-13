@@ -8,9 +8,10 @@
 | <a href="https://github.com/TheYunseokSong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheYunseokSong&show_icons=true&theme=Gradient&hide_title=ture&hide_border=true&title_color=fff&icon_color=26D74D&text_color=9f9f9f&bg_color=151515" alt="TheYunseokSong's github stats" /></a> | <a href="https://github.com/TheYunseokSong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYunseokSong&layout=compact&theme=gradient&hide_title=ture&hide_border=ture&title_color=fff&text_color=9f9f9f&bg_color=151515" /></a> |
 | ------------- | ------------- |
 
-
+<!--
 # Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pocky1017)](https://solved.ac/pocky1017/)
+-->
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheYunseokSong&repo=BOJAutoPush)](https://github.com/TheYunseokSong/BOJAutoPush)
 -->

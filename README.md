@@ -1,6 +1,6 @@
 <div align="center">
  
-<a href="https://github.com/yuyuyunseok"><img align="right" src= "https://github-readme-streak-stats.herokuapp.com/?user=yuyuyunseok&theme=dark" /></a>
+<a href="https://github.com/yuyuyunseok"><img align="right" src= "https://github-readme-streak-stats.herokuapp.com/?user=yuyuyunseok&theme=black-ice" /></a>
  
  ### 𝒀𝒖𝒏𝒔𝒆𝒐𝒌 𝑺𝒐𝒏𝒈
  ---

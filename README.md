@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,c,cs)](https://skillicons.dev)
 <br />
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karpitony&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karpitony&layout=compact&theme=react&langs_count=6&count_private=true)
 
 <!--
 ![karpitony's GitHub stats](https://github-readme-stats.vercel.app/api?username=karpitony&hide=contribs,prs&show_icons=true&theme=dark)

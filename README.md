@@ -1,7 +1,5 @@
 ### - 🌱 I'm currently learning ...
-[![My Languages](https://skillicons.dev/icons?i=python,c,cs,html,css,js)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=react,githubactions,docker)](https://skillicons.dev)
-<br />
+[![My Languages](https://skillicons.dev/icons?i=python,c,cs,html,css,js,react,githubactions,docker&perline=6)](https://skillicons.dev) <br>
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karpitony&layout=compact&theme=react&langs_count=6&count_private=true)
 

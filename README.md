@@ -11,3 +11,15 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karpitony&layout=compact&theme=dark&langs_count=6&count_private=true&bg_color=60,1d4ed8,0065cd,00699f,00666b,065f46&title_color=fff&text_color=fff">
   </a>
 </div>
+
+<!--
+## - Algorithm Study
+<div align="center">
+  <a href="https://solved.ac/pocky1017">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pocky1017"/>
+  </a>
+  <a href="https://solved.ac/pocky1017">
+    <img src="http://mazandi.herokuapp.com/api?handle=pocky1017&theme=dark"/>
+  </a>
+</div>
+-->

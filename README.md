@@ -1,5 +1,5 @@
 ## - 🌱 I'm currently learning ...
-[![My Languages](https://skillicons.dev/icons?i=python,c,cs,html,css,js,react,githubactions,docker&perline=6)](https://skillicons.dev) <br>
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,python,c,cs,githubactions,docker&perline=6)](https://skillicons.dev) <br>
 <br />
 
 ## - ⭐️ My github stats

@@ -7,6 +7,9 @@
 
  - I`m interested in web frontend and simple application.
 
+
+<br />
+
 [![My Languages](https://skillicons.dev/icons?i=python,js,react,tailwind,vite,c,cs,githubactions,docker)](https://skillicons.dev) <br>
 
 <details>

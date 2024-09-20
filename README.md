@@ -1,17 +1,25 @@
-## - 🌱 I'm currently learning ...
-[![My Languages](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,python,c,cs,githubactions,docker&perline=6)](https://skillicons.dev) <br>
-<br />
+## Hi there
 
-## - ⭐️ My github stats
-<div align="center">
-  <a href="https://github.com/karpitony">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=karpitony&show_icons=true&theme=dark&langs_count=6&count_private=true&rank_icon=github&bg_color=60,1d4ed8,0065cd,00699f,00666b,065f46&title_color=fff&text_color=fff" />
-  </a>
-  <a href="https://github.com/karpitony">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karpitony&layout=compact&theme=dark&langs_count=6&count_private=true&bg_color=60,1d4ed8,0065cd,00699f,00666b,065f46&title_color=fff&text_color=fff">
-  </a>
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarpitony%2Fkarpitony&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pocky1017)](https://solved.ac/pocky1017)
 
+ - 웹 프론트엔드나 간단한 응용 프로그램 개발에 관심이 있습니다.
+
+ - I`m interested in web frontend and simple application.
+
+[![My Languages](https://skillicons.dev/icons?i=python,js,react,tailwind,vite,c,cs,githubactions,docker)](https://skillicons.dev) <br>
+
+<details>
+  <summary>Click to see my github stats</summary>
+  <div align="center">
+    <a href="https://github.com/karpitony">
+      <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=karpitony&show_icons=true&theme=dark&langs_count=6&count_private=true&rank_icon=github&bg_color=60,1d4ed8,0065cd,00699f,00666b,065f46&title_color=fff&text_color=fff" />
+    </a>
+    <a href="https://github.com/karpitony">
+      <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karpitony&layout=compact&theme=dark&langs_count=6&count_private=true&bg_color=60,1d4ed8,0065cd,00699f,00666b,065f46&title_color=fff&text_color=fff">
+    </a>
+  </div>
+</details>
 <!--
 ## - Algorithm Study
 <div align="center">

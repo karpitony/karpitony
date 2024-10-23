@@ -13,7 +13,7 @@
 
 <br />
 
-[![My Languages](https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,vercel,python,c,cs,githubactions,docker&perline=6)](https://skillicons.dev) <br>
+![My Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,tailwind,vite,nextjs,zustand,python,c,cs,githubactions,docker,vercel&perline=7) <br>
 
 ### Award
 | Award 	| Date                         	     | Contest                  | Repository			|

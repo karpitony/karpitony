@@ -7,13 +7,14 @@
 
 
  - 웹 프론트엔드와 편리함을 제공하는 응용 프로그램 개발에 관심이 있습니다.
+ - 블로그 사이트를 만들었습니다, [놀러오세요!](https://yunseok.vercel.app)
 
- - I am interested in web frontend development and creating user-friendly applications.
-
+ - I'm interested in web frontend development and creating user-friendly applications.
+ - I’ve created a blog site, [come visit!](https://yunseok.vercel.app)
 
 <br />
 
-![My Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,tailwind,vite,nextjs,zustand,python,c,cs,githubactions,docker,vercel&perline=7) <br>
+![My Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,tailwind,python,cs&perline=7) <br>
 
 ### Award
 | Award 	| Date                         	     | Contest                  | Repository			|

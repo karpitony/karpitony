@@ -2,7 +2,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarpitony%2Fkarpitony&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ![GitHub User's stars](https://img.shields.io/github/stars/karpitony)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?logo=notion&logoColor=black)](https://www.notion.so/karpitony/7f2456053cf240579e09ad4c5f583058)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://yunseok.vercel.app/about)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pocky1017)](https://solved.ac/pocky1017)
 
 
@@ -34,6 +34,7 @@
   </div>
 </details>
 <!--
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?logo=notion&logoColor=black)](https://www.notion.so/karpitony/7f2456053cf240579e09ad4c5f583058)
 ## - Algorithm Study
 <div align="center">
   <a href="https://solved.ac/pocky1017">

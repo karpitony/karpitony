@@ -14,7 +14,7 @@
 
 <br />
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,tailwind,python,cs,nodejs&perline=6) <br>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,tailwind,zustand,python,cs,nodejs,express,sqlite&perline=6) <br>
 
 ### Award
 | Award 	| Date                         	     | Contest                  | Repository			|

@@ -5,25 +5,50 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://yunseok.vercel.app/about)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pocky1017)](https://solved.ac/pocky1017)
 
+### About
+```
+- 사람들에게 작지만 편리한 경험을 주는 서비스를 만드는 데 관심이 있습니다.
+- 프론트엔드 개발을 통해 일상의 불편을 풀어가는 과정을 좋아합니다.
 
- - 웹 프론트엔드와 편리함을 제공하는 응용 프로그램 개발에 관심이 있습니다.
- - 블로그 사이트를 만들었습니다, [놀러오세요!](https://yunseok.vercel.app)
-
- - I'm interested in web frontend development and creating user-friendly applications.
- - I’ve created a blog site, [come visit!](https://yunseok.vercel.app)
-
+- I’m passionate about crafting small but meaningful experiences.
+- I find joy in simplifying everyday moments through frontend development.
+```
+> 저에 대해 더 많이 궁금하시다면, 
+> [블로그 사이트를 만들었습니다. 놀러오세요!](https://yunseok.vercel.app/about)
+<!--
 <br />
-
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,tailwind,zustand,python,cs,nodejs,express,sqlite&perline=6) <br>
+-->
+
+### Stacks
+```ts
+type MyStack = {
+  language: ['TypeScript', 'JavaScript''Python', 'C#'];
+  frontend: ['React', 'Next.js', 'Tailwind', 'Styled-Components', 'Zustand'];
+  backend: ['Node.js', 'Express', 'SQLite'];
+  tools: ['TurboRepo', 'GitHub Actions'];
+};
+```
+
+### Experience
+```
+- kakao X 구름톤 유니브 3기 프론트엔드 미르미
+- kakao X 구름톤 유니브 4기 교내 운영진
+- 동국대학교 SW/AI 동아리 FarmSystem 웹사이트 TF팀
+- 동국대학교 SW/AI 동아리 FarmSystem 4기 보안/웹 트랙 활동
+- 동국대학교 프로그래밍 중앙동아리 CAPS 39기
+```
 
 ### Award
-<!--
+
 | Award 	| Date                         	     | Contest                  | Repository			|
 |:---:|:---:|:---:|---|
 | 🏆 **대상(1등)** | 2024.09.29 | kakao X 구름톤 유니브 3기 연합 해커톤 | [☁️ 구름다리](https://github.com/9oormDari/FrontEnd)|
--->
-- 🏆 **대상** / kakao X 구름톤 유니브 3기 연합 해커톤  / [☁️ 구름다리](https://github.com/9oormDari/FrontEnd)
-
+<!--
+```
+- 🏆 kakao X 구름톤 유니브 3기 연합 해커톤 대상
+  - ☁️ 구름다리 https://github.com/9oormDari/FrontEnd
+```-->
 <details>
   <summary>Click to see my github stats</summary>
   <div align="center">

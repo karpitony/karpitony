@@ -5,6 +5,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://yunseok.vercel.app/about)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pocky1017)](https://solved.ac/pocky1017)
 
+> [웹사이트를 만들었습니다. 놀러오세요!](https://yunseok.vercel.app/about)
+
 ### About
 ```
 - 사람들에게 작지만 편리한 경험을 주는 서비스를 만드는 데 관심이 있습니다.
@@ -13,7 +15,6 @@
 - I’m passionate about crafting small but meaningful experiences.
 - I find joy in simplifying everyday moments through frontend development.
 ```
-> 저에 대해 더 궁금하시면, [웹사이트를 만들었습니다. 놀러오세요!](https://yunseok.vercel.app/about)
 
 <!--
 <br />

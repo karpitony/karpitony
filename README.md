@@ -1,15 +1,13 @@
 ## Hi there
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarpitony%2Fkarpitony&count_bg=%23747474&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)
+<!--![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarpitony%2Fkarpitony&count_bg=%23747474&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)-->
 ![GitHub User's stars](https://img.shields.io/github/stars/karpitony)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://yunseok.vercel.app/about)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pocky1017)](https://solved.ac/pocky1017)
 
-> [웹사이트를 만들었습니다. 놀러오세요!](https://yunseok.vercel.app/about)
-
 ### About
 ```
-- 사람들에게 작지만 편리한 경험을 주는 서비스를 만드는 데 관심이 있습니다.
+- 작지만 편리한 경험을 주는 서비스를 만드는 데 관심이 있습니다.
 - 프론트엔드 개발을 통해 일상의 불편을 풀어가는 과정을 좋아합니다.
 
 - I’m passionate about crafting small but meaningful experiences.
@@ -50,6 +48,7 @@ type MyStack = {
 - 🏆 kakao X 구름톤 유니브 3기 연합 해커톤 대상
   - ☁️ 구름다리 https://github.com/9oormDari/FrontEnd
 ```-->
+
 <details>
   <summary>Click to see my github stats</summary>
   <div align="center">

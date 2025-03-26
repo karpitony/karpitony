@@ -1,9 +1,12 @@
+<!--
 ## Hi there
 
-<!--![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarpitony%2Fkarpitony&count_bg=%23747474&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)-->
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarpitony%2Fkarpitony&count_bg=%23747474&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)
+
 ![GitHub User's stars](https://img.shields.io/github/stars/karpitony)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://yunseok.vercel.app/about)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pocky1017)](https://solved.ac/pocky1017)
+-->
 
 ### About
 ```
@@ -17,17 +20,17 @@
 <!--
 <br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,tailwind,zustand,python,cs,nodejs,express,sqlite&perline=6) <br>
-
+-->
 
 ### Stacks
 ```ts
 type MyStack = {
-  language: ['TypeScript', 'JavaScript''Python', 'C#'];
+  language: ['TypeScript', 'JavaScript', 'Python', 'C#'];
   frontend: ['React', 'Next.js', 'Tailwind', 'Styled-Components', 'Zustand'];
   backend: ['Node.js', 'Express', 'SQLite'];
-  tools: ['TurboRepo', 'GitHub Actions'];
+  tools: ['Pnpm', 'TurboRepo', 'GitHub Actions'];
 };
-```-->
+```
 
 ### Experience
 ```

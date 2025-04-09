@@ -12,7 +12,6 @@
 ```
 - 작지만 편리한 경험을 주는 서비스를 만드는 데 관심이 있습니다.
 - 프론트엔드 개발을 통해 일상의 불편을 풀어가는 과정을 좋아합니다.
-
 - I’m passionate about crafting small but meaningful experiences.
 - I find joy in simplifying everyday moments through frontend development.
 ```
@@ -37,7 +36,7 @@ type MyStack = {
 - kakao X 구름톤 유니브 3기 프론트엔드 미르미
 - kakao X 구름톤 유니브 4기 교내 운영진
 - 동국대학교 SW/AI 동아리 FarmSystem 웹사이트 TF팀
-- 동국대학교 SW/AI 동아리 FarmSystem 4기 보안/웹 트랙 활동
+- 동국대학교 SW/AI 동아리 FarmSystem 4기 보안/웹 트랙
 - 동국대학교 프로그래밍 중앙동아리 CAPS 39기
 ```
 

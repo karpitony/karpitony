@@ -4,15 +4,14 @@
 -->
 
 https://yunseok.vercel.app
-<!--
-### About
+
 ```
 - 작지만 편리한 경험을 주는 서비스를 만드는 데 관심이 있습니다.
-- 프론트엔드 개발을 통해 일상의 불편을 풀어가는 과정을 좋아합니다.
+- 개발을 통해 일상의 불편을 풀어가는 과정을 좋아합니다.
 - I’m passionate about crafting small but meaningful experiences.
-- I find joy in simplifying everyday moments through frontend development.
+- I find joy in simplifying everyday moments through development.
 ```
-
+<!--
 ### Stacks
 ```ts
 type MyStack = {

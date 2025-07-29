@@ -1,13 +1,10 @@
 <!--
-## Hi there
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarpitony%2Fkarpitony&count_bg=%23747474&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)
-
-![GitHub User's stars](https://img.shields.io/github/stars/karpitony)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://yunseok.vercel.app/about)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pocky1017)](https://solved.ac/pocky1017)
+<br />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,tailwind,zustand,python,cs,nodejs,express,sqlite&perline=6) <br>
 -->
+<!--
 https://yunseok.vercel.app
+
 ### About
 ```
 - 작지만 편리한 경험을 주는 서비스를 만드는 데 관심이 있습니다.
@@ -15,11 +12,6 @@ https://yunseok.vercel.app
 - I’m passionate about crafting small but meaningful experiences.
 - I find joy in simplifying everyday moments through frontend development.
 ```
-
-<!--
-<br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,tailwind,zustand,python,cs,nodejs,express,sqlite&perline=6) <br>
--->
 
 ### Stacks
 ```ts
@@ -45,11 +37,6 @@ type MyStack = {
 | Award 	| Date                         	     | Contest                  | Repository			|
 |:---:|:---:|:---:|---|
 | 🏆 **대상(1등)** | 2024.09.29 | kakao X 구름톤 유니브 3기 연합 해커톤 | [☁️ 구름다리](https://github.com/9oormDari/FrontEnd)|
-<!--
-```
-- 🏆 kakao X 구름톤 유니브 3기 연합 해커톤 대상
-  - ☁️ 구름다리 https://github.com/9oormDari/FrontEnd
-```-->
 
 <details>
   <summary>Click to see my github stats</summary>
@@ -62,10 +49,6 @@ type MyStack = {
     </a>
   </div>
 </details>
-<!--
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?logo=notion&logoColor=black)](https://www.notion.so/karpitony/7f2456053cf240579e09ad4c5f583058)
-## - Algorithm Study
-<div align="center">
   <a href="https://solved.ac/pocky1017">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pocky1017"/>
   </a>

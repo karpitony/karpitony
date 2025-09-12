@@ -37,7 +37,8 @@ type MyStack = {
 | Award 	| Date                         	     | Contest                  | Repository			|
 |:---:|:---:|:---:|---|
 | 🏆 **대상** | 2024.09.29 | kakao X 구름톤 유니브 3기 연합 해커톤 | [☁️ 구름다리](https://github.com/9oormDari/FrontEnd)|
-| 🏆 **1등** | 2025.09.29 | 구름톤 유니브 4기 가온지부 연합 프로젝트 | [🧪베타랩](https://github.com/PROJECT-NEXUS-JS/betalab-frontend)|
+| 🏆 **1등** | 2025.08.29 | 구름톤 유니브 4기 가온지부 연합 프로젝트 | [🧪 베타랩](https://github.com/PROJECT-NEXUS-JS/betalab-frontend)|
+| 🏆 **1등** | 2025.09.11 | 프로그래밍 중앙동아리 CAPS 여름방학 CAPStone 대회 | [⏰ RED](https://github.com/CAPStone-CAPS/django-server)|
 <!--
 <br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,tailwind,zustand,python,cs,nodejs,express,sqlite&perline=6) <br>

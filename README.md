@@ -8,8 +8,8 @@ https://yunseok.vercel.app
 ```
 - 작지만 편리한 경험을 주는 서비스를 만드는 데 관심이 있습니다.
 - 개발을 통해 일상의 불편을 풀어가는 과정을 좋아합니다.
-- I’m passionate about crafting small but meaningful experiences.
-- I find joy in simplifying everyday moments through development.
+- I’m passionate about creating small yet meaningful experiences.
+- I enjoy making everyday life simpler through development.
 ```
 <!--
 ### Stacks
@@ -21,6 +21,7 @@ type MyStack = {
   tools: ['Pnpm', 'TurboRepo', 'GitHub Actions'];
 };
 ```
+-->
 
 ### Experience
 ```
@@ -32,12 +33,11 @@ type MyStack = {
 ```
 
 ### Award
--->
 
 | Award 	| Date                         	     | Contest                  | Repository			|
 |:---:|:---:|:---:|---|
-| 🏆 **대상** | 2024.09.29 | kakao X 구름톤 유니브 3기 연합 해커톤 | [☁️ 구름다리](https://github.com/9oormDari/FrontEnd)|
-| 🏆 **1등** | 2025.08.29 | 구름톤 유니브 4기 가온지부 연합 프로젝트 | [🧪 베타랩](https://github.com/PROJECT-NEXUS-JS/betalab-frontend)|
+| 🏆 **대상** | 2024.09.29 | [kakao X 구름톤 유니브 3기 연합 해커톤](https://yunseok.vercel.app/posts/04-9oormthon-univ-hackerthon) | [☁️ 구름다리](https://github.com/9oormDari/FrontEnd)|
+| 🏆 **1등** | 2025.08.29 | [구름톤 유니브 4기 가온지부 연합 프로젝트](https://yunseok.vercel.app/posts/11-nexus-project-betalab) | [🧪 베타랩](https://github.com/PROJECT-NEXUS-JS/betalab-frontend)|
 | 🏆 **1등** | 2025.09.11 | 프로그래밍 중앙동아리 CAPS 여름방학 CAPStone 대회 | [⏰ RED](https://github.com/CAPStone-CAPS/django-server)|
 <!--
 <br />

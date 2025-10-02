@@ -30,6 +30,7 @@ type MyStack = {
 - 동국대학교 SW/AI 동아리 FarmSystem 웹사이트 TF팀
 - 동국대학교 SW/AI 동아리 FarmSystem 4기 보안/웹 트랙
 - 동국대학교 프로그래밍 중앙동아리 CAPS 39기
+- GDGoC DGU 4기 Web/App General Member
 ```
 
 ### Award

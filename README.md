@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> 🪖 **군 복무 중 (~ 2028.01.19)**  
+> 복무 기간 동안 개인 프로젝트 업데이트, Issue 답변 및 PR 리뷰가 늦어질 수 있습니다.  
+> *(Replies and project updates may be delayed due to military service.)*
+
+---
+
 <!--
 <br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,tailwind,zustand,python,cs,nodejs,express,sqlite&perline=6) <br>
